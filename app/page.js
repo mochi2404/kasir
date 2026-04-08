@@ -7,9 +7,9 @@ export default function HomePage() {
         <span className="eyebrow">Kasir Digital</span>
         <h1>Operasional toko lebih cepat untuk kasir, lebih tajam untuk owner.</h1>
         <p>
-          Starter project ini memisahkan frontend Vercel dan backend Node.js
-          server, dengan layout owner dan kasir yang sudah disesuaikan dari
-          brief kamu.
+          Project ini sekarang disiapkan sebagai aplikasi fullstack Next.js di
+          Vercel, dengan API route backend, dashboard owner, dan workflow kasir
+          yang sudah disesuaikan dari brief kamu.
         </p>
         <div className="hero-actions">
           <Link href="/login" className="btn btn-primary">
